@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Placa Mãe 775",
+            "price": 270.00
+        },
+        {
+            "id": 2,
+            "name": "Placa Mãe AMD",
+            "price": 220.00
+        },
+        {
+            "id": 3,
+            "name": "Notebook Acer",
+            "price": 2800.00
+        }
+    ]
+}
